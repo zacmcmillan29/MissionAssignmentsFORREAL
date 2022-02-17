@@ -1526,11 +1526,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/BookstoreProjHolder/Bookstore/Bookstore/Bookstore.csproj",
+      "projectUniqueName": "/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission Assignments/MissionAssignmentsFORREAL/Bookstore/Bookstore.csproj",
       "projectName": "Bookstore",
-      "projectPath": "/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/BookstoreProjHolder/Bookstore/Bookstore/Bookstore.csproj",
+      "projectPath": "/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission Assignments/MissionAssignmentsFORREAL/Bookstore/Bookstore.csproj",
       "packagesPath": "/Users/zacmcmillan/.nuget/packages/",
-      "outputPath": "/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/BookstoreProjHolder/Bookstore/Bookstore/obj/",
+      "outputPath": "/Users/zacmcmillan/Library/Mobile Documents/com~apple~CloudDocs/IS junior core/WINTER 2022/IS 413/Mission Assignments/MissionAssignmentsFORREAL/Bookstore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zacmcmillan/.config/NuGet/NuGet.Config"
