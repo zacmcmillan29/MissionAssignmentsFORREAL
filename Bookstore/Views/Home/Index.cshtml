@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@model BooksViewModel
+
+
+<h1>Welcome to the Bookstore</h1>
+@foreach (Book b in Model.Books)
+{
+    <h3>@b.Title</h3>
+    <ul>
+        <li>Book Type: @b.Category</li>
+        <li>Author: @b.Author</li>
+        <li>This book costs $@b.Price</li>
+    </ul>
+}
+
+<div page-stuff="@Model.PageInformation" page-action="Index"></div>
